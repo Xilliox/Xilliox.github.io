@@ -10,5 +10,8 @@ div{text-align: center;}
 
 #pos2{
     height: 350px;
+    -webkit-box-shadow: 4px 4px 7px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 4px 4px 7px -4px rgba(0,0,0,0.75);
+    box-shadow: 4px 4px 7px -4px rgba(0,0,0,0.75);
    /* background-color: firebrick;*/
 }
