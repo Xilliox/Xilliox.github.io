@@ -15,7 +15,8 @@ div{text-align: center;}
 
 div#pos2{
  height:350px;
- width:auto;
+ width:500px;
+ border:1px solid #fff;
 -webkit-box-shadow: 4px 4px 15px -4px rgba(18,18,18,1);
 -moz-box-shadow: 4px 4px 15px -4px rgba(18,18,18,1);
 box-shadow: 4px 4px 15px -4px rgba(18,18,18,1);
