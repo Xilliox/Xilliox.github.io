@@ -15,11 +15,12 @@ div{text-align: center;}
    /* background-color: firebrick;*/
 }
 #banner{
-    height: 480px;
+    height: 500px;
     width: 100vw;
     clear:both;
-    background-image: url("imageslrdj/le_retour_du_jeudi.png");
+    background-image: url("/imageslrdj/le_retour_du_jeudi.png");
     background-size: cover;
+    background-position: center; 
     position:fixed;
     top:0px;
 }
