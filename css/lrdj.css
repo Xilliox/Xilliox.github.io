@@ -1,10 +1,11 @@
 div{text-align: center;}
 #position{
     width: 950px;
-    margin: 10px auto;
+   /* margin: 10px auto;*/
 }
 #pos1{
     height: 480px;
+    width: 900px;
     /*background-color: aqua;*/
 }
 
