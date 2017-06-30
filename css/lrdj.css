@@ -15,6 +15,7 @@ div{text-align: center;}
 }
 
 #menu{
+    position: absolute;
     float: left;
 }
 #menug{
