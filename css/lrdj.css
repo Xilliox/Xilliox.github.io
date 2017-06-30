@@ -15,7 +15,7 @@ div{text-align: center;}
 }
 
 .shadow{
--webkit-box-shadow: 4px 4px 15px -4px rgba(18,18,18,1);
--moz-box-shadow: 4px 4px 15px -4px rgba(18,18,18,1);
-box-shadow: 4px 4px 15px -4px rgba(18,18,18,1);
+-webkit-box-shadow: 7px 9px 9px -6px rgba(186,186,186,1);
+-moz-box-shadow: 7px 9px 9px -6px rgba(186,186,186,1);
+box-shadow: 7px 9px 9px -6px rgba(186,186,186,1);
 }
