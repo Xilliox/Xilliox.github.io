@@ -13,3 +13,22 @@ div{text-align: center;}
     height: 350px;
    /* background-color: firebrick;*/
 }
+
+#menug li{
+    display: block;
+    float: left;
+    width: 150px;
+    background-color: #ddd;
+    margin-right : 5px;
+    text-align: center;
+}
+
+#list li:hover{
+    background-color: #ccc;
+}
+
+#list li a{
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+}
