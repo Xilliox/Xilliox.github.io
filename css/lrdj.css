@@ -14,7 +14,14 @@ div{text-align: center;}
     margin-top:50px;
    /* background-color: firebrick;*/
 }
-
+#banner{
+    height: 480px;
+    width: 100vw;
+    background-image: url("imageslrdj/le_retour_du_jeudi.png");
+    background-size: cover;
+    position:fixed;
+    top:0px;
+}
 .shadow{
 -webkit-box-shadow: 7px 9px 9px -6px rgba(186,186,186,1);
 -moz-box-shadow: 7px 9px 9px -6px rgba(186,186,186,1);
