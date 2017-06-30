@@ -17,6 +17,7 @@ div{text-align: center;}
 #banner{
     height: 480px;
     width: 100vw;
+    clear:both;
     background-image: url("imageslrdj/le_retour_du_jeudi.png");
     background-size: cover;
     position:fixed;
