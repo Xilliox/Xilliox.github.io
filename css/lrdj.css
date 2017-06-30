@@ -15,7 +15,6 @@ div{text-align: center;}
 }
 
 .shadow{
- border:1px solid #000;
 -webkit-box-shadow: 4px 4px 15px -4px rgba(18,18,18,1);
 -moz-box-shadow: 4px 4px 15px -4px rgba(18,18,18,1);
 box-shadow: 4px 4px 15px -4px rgba(18,18,18,1);
