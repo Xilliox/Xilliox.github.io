@@ -1,7 +1,7 @@
 div{text-align: center;}
 #position{
     width: 950px;
-    margin-top: 300px!important;
+    margin-top: calc(100% * 0.6)!important;
 }
 #pos1{
     height: 480px;
@@ -15,12 +15,11 @@ div{text-align: center;}
    /* background-color: firebrick;*/
 }
 #banner{
-    height: calc(100% * 0.7);
-    width: 100%;
+    height: calc(100% * 0.6);
+    width: 100vw;
     clear:both;
     background-image: url("/imageslrdj/le_retour_du_jeudi.png");
-    background-size: cover;
-    background-position: 0% 20%; 
+    background-size: contain;
     background-repeat:no-repeat;
     position:fixed;
     top:0px;
