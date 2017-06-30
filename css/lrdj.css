@@ -20,6 +20,7 @@ div{text-align: center;}
     clear:both;
     background-image: url("/imageslrdj/le_retour_du_jeudi.png");
     background-size: contain;
+    background-position:50% 0%;
     background-repeat:no-repeat;
     position:fixed;
     top:0px;
