@@ -1,0 +1,14 @@
+div{text-align: center;}
+#position{
+    width: 950px;
+    margin: 10px auto;
+}
+#pos1{
+    height: 480px;
+    /*background-color: aqua;*/
+}
+
+#pos2{
+    height: 350px;
+   /* background-color: firebrick;*/
+}
