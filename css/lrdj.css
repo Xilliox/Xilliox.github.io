@@ -20,7 +20,7 @@ div{text-align: center;}
     margin: 0;
 }
 #menug li{
-    display: block;
+    display: inline;
     float: left;
     width: 150px;
     background-color: #ddd;
