@@ -1,12 +1,12 @@
 div{text-align: center;}
 #position{
     width: 100%;
-    margin-top: calc(100% * 0.6);
     background-color:#fff;
     position: absolute;
     z-index: 2;
     left: 0px;
-    top: 0px;
+    top: calc(100% * 0.6);
+}
 }
 #pos1{
     height: 480px;
